@@ -59,7 +59,7 @@
   "git": {
     "integration_disabled": false,
     "repo_type": "https",
-    "repo_username": "",
+    "repo_username": "arevalo-ricardo",
     "ssh_key": ""
   },
   "meta": {
