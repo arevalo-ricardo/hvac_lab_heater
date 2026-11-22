@@ -1,0 +1,22 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "1623ddda-a2ea-441f-ba04-973cf9a060fd")
+	(paper "A4")
+	(title_block
+		(title "ACTUATOR BOARD ")
+		(date "2026-10-31")
+		(rev "A")
+		(company "CALIFORNIA STATE UNIVERSITY, LOS ANGELES - NSF CREST CATSUS")
+		(comment 1 "Lead Designer: Ricardo Arevalo")
+		(comment 2 "Engineer: Ricardo Arevalo")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
