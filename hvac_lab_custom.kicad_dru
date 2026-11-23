@@ -1,0 +1,5 @@
+(version 1)
+(rule "Via style 1"
+	(constraint via_diameter (min 0.6096mm) (max 0.635mm))
+	(constraint hole_size (min 0.3048mm) (max 0.3048mm))
+)

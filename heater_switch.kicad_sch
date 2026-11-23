@@ -4,6 +4,11 @@
 	(generator_version "10.0")
 	(uuid "ee607ed0-4741-4a08-8a62-4e54af632d99")
 	(paper "A4")
+	(title_block
+		(title "HVAC HEATER BOARD")
+		(date "2026-10-31")
+		(rev "A")
+	)
 	(lib_symbols
 		(symbol "1935161:1935161"
 			(pin_names
@@ -2500,12 +2505,6 @@
 					(unit 1)
 				)
 			)
-			(project "hvac_lab_custom"
-				(path "/897161c7-2e21-4b34-8f31-a3c9adc31a45"
-					(reference "R302")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -2596,12 +2595,6 @@
 					(unit 1)
 				)
 			)
-			(project "hvac_lab_custom"
-				(path "/897161c7-2e21-4b34-8f31-a3c9adc31a45"
-					(reference "#PWR0306")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -2689,12 +2682,6 @@
 				)
 				(path "/1943aa5a-0de9-4f15-9e26-c579fd051293/b29129f3-b61b-4380-a7d0-639c5871824d"
 					(reference "#PWR0514")
-					(unit 1)
-				)
-			)
-			(project "hvac_lab_custom"
-				(path "/897161c7-2e21-4b34-8f31-a3c9adc31a45"
-					(reference "#PWR0308")
 					(unit 1)
 				)
 			)
@@ -2914,12 +2901,6 @@
 					(unit 1)
 				)
 			)
-			(project "hvac_lab_custom"
-				(path "/897161c7-2e21-4b34-8f31-a3c9adc31a45"
-					(reference "J301")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -3014,12 +2995,6 @@
 					(unit 1)
 				)
 			)
-			(project "hvac_lab_custom"
-				(path "/897161c7-2e21-4b34-8f31-a3c9adc31a45"
-					(reference "R303")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -3107,12 +3082,6 @@
 				)
 				(path "/1943aa5a-0de9-4f15-9e26-c579fd051293/b29129f3-b61b-4380-a7d0-639c5871824d"
 					(reference "#PWR0517")
-					(unit 1)
-				)
-			)
-			(project "hvac_lab_custom"
-				(path "/897161c7-2e21-4b34-8f31-a3c9adc31a45"
-					(reference "#PWR0310")
 					(unit 1)
 				)
 			)
@@ -3234,12 +3203,6 @@
 					(unit 1)
 				)
 			)
-			(project "hvac_lab_custom"
-				(path "/897161c7-2e21-4b34-8f31-a3c9adc31a45"
-					(reference "U301")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -3331,12 +3294,6 @@
 				)
 				(path "/1943aa5a-0de9-4f15-9e26-c579fd051293/b29129f3-b61b-4380-a7d0-639c5871824d"
 					(reference "R517")
-					(unit 1)
-				)
-			)
-			(project "hvac_lab_custom"
-				(path "/897161c7-2e21-4b34-8f31-a3c9adc31a45"
-					(reference "R305")
 					(unit 1)
 				)
 			)
@@ -3433,12 +3390,6 @@
 					(unit 1)
 				)
 			)
-			(project "hvac_lab_custom"
-				(path "/897161c7-2e21-4b34-8f31-a3c9adc31a45"
-					(reference "C301")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -3528,12 +3479,6 @@
 				)
 				(path "/1943aa5a-0de9-4f15-9e26-c579fd051293/b29129f3-b61b-4380-a7d0-639c5871824d"
 					(reference "R515")
-					(unit 1)
-				)
-			)
-			(project "hvac_lab_custom"
-				(path "/897161c7-2e21-4b34-8f31-a3c9adc31a45"
-					(reference "R306")
 					(unit 1)
 				)
 			)
@@ -3631,12 +3576,6 @@
 					(unit 1)
 				)
 			)
-			(project "hvac_lab_custom"
-				(path "/897161c7-2e21-4b34-8f31-a3c9adc31a45"
-					(reference "R304")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -3729,12 +3668,6 @@
 					(unit 1)
 				)
 			)
-			(project "hvac_lab_custom"
-				(path "/897161c7-2e21-4b34-8f31-a3c9adc31a45"
-					(reference "R301")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -3822,12 +3755,6 @@
 				)
 				(path "/1943aa5a-0de9-4f15-9e26-c579fd051293/b29129f3-b61b-4380-a7d0-639c5871824d"
 					(reference "#PWR0518")
-					(unit 1)
-				)
-			)
-			(project "hvac_lab_custom"
-				(path "/897161c7-2e21-4b34-8f31-a3c9adc31a45"
-					(reference "#PWR0304")
 					(unit 1)
 				)
 			)
@@ -3942,12 +3869,6 @@
 				)
 				(path "/1943aa5a-0de9-4f15-9e26-c579fd051293/b29129f3-b61b-4380-a7d0-639c5871824d"
 					(reference "D503")
-					(unit 1)
-				)
-			)
-			(project "hvac_lab_custom"
-				(path "/897161c7-2e21-4b34-8f31-a3c9adc31a45"
-					(reference "D301")
 					(unit 1)
 				)
 			)
@@ -4082,12 +4003,6 @@
 					(unit 1)
 				)
 			)
-			(project "hvac_lab_custom"
-				(path "/897161c7-2e21-4b34-8f31-a3c9adc31a45"
-					(reference "Q301")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -4175,12 +4090,6 @@
 				)
 				(path "/1943aa5a-0de9-4f15-9e26-c579fd051293/b29129f3-b61b-4380-a7d0-639c5871824d"
 					(reference "#PWR0510")
-					(unit 1)
-				)
-			)
-			(project "hvac_lab_custom"
-				(path "/897161c7-2e21-4b34-8f31-a3c9adc31a45"
-					(reference "#PWR0301")
 					(unit 1)
 				)
 			)
@@ -4274,12 +4183,6 @@
 					(unit 1)
 				)
 			)
-			(project "hvac_lab_custom"
-				(path "/897161c7-2e21-4b34-8f31-a3c9adc31a45"
-					(reference "#PWR0309")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -4367,12 +4270,6 @@
 				)
 				(path "/1943aa5a-0de9-4f15-9e26-c579fd051293/b29129f3-b61b-4380-a7d0-639c5871824d"
 					(reference "#PWR0511")
-					(unit 1)
-				)
-			)
-			(project "hvac_lab_custom"
-				(path "/897161c7-2e21-4b34-8f31-a3c9adc31a45"
-					(reference "#PWR0303")
 					(unit 1)
 				)
 			)
@@ -4466,12 +4363,6 @@
 					(unit 1)
 				)
 			)
-			(project "hvac_lab_custom"
-				(path "/897161c7-2e21-4b34-8f31-a3c9adc31a45"
-					(reference "#PWR0307")
-					(unit 1)
-				)
-			)
 		)
 	)
 	(symbol
@@ -4559,12 +4450,6 @@
 				)
 				(path "/1943aa5a-0de9-4f15-9e26-c579fd051293/b29129f3-b61b-4380-a7d0-639c5871824d"
 					(reference "#PWR0516")
-					(unit 1)
-				)
-			)
-			(project "hvac_lab_custom"
-				(path "/897161c7-2e21-4b34-8f31-a3c9adc31a45"
-					(reference "#PWR0302")
 					(unit 1)
 				)
 			)
